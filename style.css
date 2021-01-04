@@ -1,0 +1,14 @@
+h1{
+    font-size: 50px;
+    color: green;
+}
+body{
+    font-family: 'Acme', sans-serif;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
