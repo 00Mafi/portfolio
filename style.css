@@ -27,3 +27,15 @@ body{
 section{
     height: 500px;
 }
+.link-button{
+    background-color:rgb(195, 170, 170) ;
+    text-decoration: none;
+    padding:10px 40px;
+    border-radius: 10px;
+    color:steelblue
+    font-weight: lighter;
+
+}
+#abcd{
+    color: red;
+}
